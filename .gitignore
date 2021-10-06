@@ -1,0 +1,9 @@
+# ignore all but whitelisted files
+*
+!*/
+!.gitignore
+!*.cpp
+!*.go
+!*.in
+!*.out
+!*.txt
